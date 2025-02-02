@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **TODO PROJECT**
+- 🔭 I have worked on **TODO PROJECT**
 
-- 🌱 I’m currently learning **Full stack java, full stack Ui, full stack python**
+- 🌱 I have learned **Full stack python and Django developer & Data Analyst**
 
 - 👯 I’m looking to collaborate on **any python project**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [python, java, html.css](python, java, html.css)
 
-- 💬 Ask me about **python, java, Ui**
+- 💬 Ask me about **python, Data Analyst using PowerBi**
 
 - 📫 How to reach me **sailakshmibaswala@gmail.com**
 
